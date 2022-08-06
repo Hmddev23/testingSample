@@ -1,2 +1,2 @@
-# testingSample
-sample app for youtube tutorial
+#MyApp
+this is my app
